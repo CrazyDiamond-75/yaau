@@ -1,4 +1,5 @@
 <h1 style="font-variant:small-caps"> yaau - Yet Another Aur Updater </h1>
+
 `./yaau.sh --version`
 
 ```
