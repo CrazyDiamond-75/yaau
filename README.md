@@ -1,4 +1,5 @@
 <h1 style="font-variant:small-caps"> yaau - Yet Another Aur Updater </h1>
+A minimalistic AUR updater, updates all packages installed via the AUR.
 
 `./yaau.sh --version`
 
