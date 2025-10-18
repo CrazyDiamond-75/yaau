@@ -17,4 +17,5 @@ Updates all repositories and installs their packages.
 Optional arguments:
     -h    --help      print this message.
     -v    --version   display yaau version.
+    -f    --force     force installs all packages.
 ```
